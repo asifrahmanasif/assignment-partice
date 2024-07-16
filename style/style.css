@@ -172,9 +172,12 @@ body{
 /* section 1 end */
 /* section 1 end */
 
+/* section-2 start */
+/* section-2 start */
+
 .section-2{
     width: 1140px;
-    height: 1395px;
+    height: 795px;
     margin: 80px auto;
 }
 .video-section{
@@ -204,3 +207,109 @@ body{
     border: 1px solid rgba(13, 19, 33, 0.2);
     border-radius: 16px;
 }
+/* section-2 end */
+/* section-2 end */
+
+/* section-3 start*/
+/* section-3 start */
+
+.input-skill{
+    width: 1140px;
+    height: 795px;
+    margin: 80px auto;
+}
+.aa{
+    text-align: center;
+}
+.b{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.input-skill-description{
+    color: rgba(13, 19, 33, 0.70);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding:0px 170px 25px 170px;
+
+}
+.skill-container{
+    display: flex;
+    gap: 20px;
+    padding-top: 10px;
+
+}
+.skill-name{
+    /* padding:20px 30px 20px 20px; */
+    padding: 40px;
+    background-color: aqua;
+    border-radius: 16px;
+}
+.input-skill-head{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+}
+.skill-descriptions{
+    color: rgba(13, 19, 33, 0.70);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+}
+.skill-a{
+    background: rgba(255, 76, 30, 0.05);
+}
+.input-skill-btn-a{
+    color: rgb(13, 19, 33);
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0%;
+    font-family: "Azeret Mono", monospace;
+    border: none;
+    padding-top: 14px;
+    background: rgba(255, 76, 30, 0.00);
+
+}
+.skill-b{
+    background: rgba(0, 76, 232, 0.05);
+}
+.input-skill-btn-b{
+    color: rgb(13, 19, 33);
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0%;
+    font-family: "Azeret Mono", monospace;
+    border: none;
+    padding-top: 14px;
+    background: rgba(0, 76, 232, 0.0);
+
+}
+.skill-c{
+    background: rgba(255, 223, 0, 0.05);
+}
+.input-skill-btn-c{
+    color: rgb(13, 19, 33);
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0%;
+    font-family: "Azeret Mono", monospace;
+    border: none;
+    padding-top: 14px;
+    background: rgba(255, 223, 0, 0.0);
+}
+/* section-3 end*/
+/* section-3 end*/
+
+
