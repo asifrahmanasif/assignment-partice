@@ -65,6 +65,7 @@ body{
 /* main content */
 /* main content */
 
+/* section 1 */
 .section{
     border-radius: 16px;
     background: rgba(13, 19, 33, 0.02);
@@ -75,6 +76,9 @@ body{
 }
 .skill-head{
     padding: 50px 130px;
+}
+.skill-heading-detail{
+    padding: 0px 25px;
 }
 .skill-heading{
     color: rgb(13, 19, 33);
@@ -154,4 +158,49 @@ body{
 .skill-detailss{
     padding: 0px 40px 9px 32px;
 
+}
+.my-skill-headings{
+    padding-right: 30px;
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+
+}
+/* section 1 end */
+/* section 1 end */
+
+.section-2{
+    width: 1140px;
+    height: 1395px;
+    margin: 80px auto;
+}
+.video-section{
+    padding:0px 170px 25px 170px;
+}
+.video-tittle{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center; 
+}
+.video-detail{
+    color: rgba(13, 19, 33, 0.70);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.video{
+    display: flex;
+    justify-content: center;
+    padding: 32px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
 }
