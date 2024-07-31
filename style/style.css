@@ -215,7 +215,7 @@ body{
 
 .input-skill{
     width: 1140px;
-    height: 795px;
+    height: 500px;
     margin: 80px auto;
 }
 .aa{
@@ -312,4 +312,134 @@ body{
 /* section-3 end*/
 /* section-3 end*/
 
+/* section-4 start */
+/* section-4 start */
 
+.input-targer-skill{
+    width: 1140px;
+    height: 1800px;
+    margin: 80px auto;
+}
+.target-heading{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.target-tittle{
+    color: rgba(13, 19, 33, 0.70);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding:0px 170px 25px 170px;
+}
+
+.target-skill{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+    border-radius: 16px;
+    border-color:rgba(13, 19, 33, 0.30);
+    
+    
+}
+.tr-skill-logo{
+    padding: 70px 15px 70px 50px;
+    width: 150px;
+    height: auto;
+}
+.target-skill-details{
+    padding: 20px;
+}
+.target-skill-head{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-bottom: 0px;
+}
+.target-skill-description{
+    color: rgba(13, 19, 33, 0.70);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 0px 0px 15px 0px;
+}
+.targer-skill-btn{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 25px;
+    letter-spacing: 0%;
+    text-align: left;
+    background-color: white;
+    border: none;
+}
+.text-area{
+    background-image: url(../assets/handshake.jpg);
+    background-position-x: center;
+    background-position-y: center;
+    border-radius: 20px;
+    box-shadow: crimson inset;
+    margin-top: 25px;
+    
+}
+.text-area-item{
+    padding-top: 50px;
+    padding-bottom: 70px;
+    background-color:rgba(0, 0, 0, 0.3);
+}
+.text-head{
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-bottom: 0px;
+}
+.text-description{
+    color: rgba(215, 218, 228, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding:0px 300px 15px 300px;
+}
+.write-comment{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.text{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    padding:15px 260px 15px 10px;
+    font-family: "Azeret Mono", monospace;
+    border: none;
+    border-radius: 8px;
+}
+.submit-btn{
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0%;
+    padding: 15px;
+    font-family: "Azeret Mono", monospace;
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+
+
+}
